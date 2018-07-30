@@ -1,0 +1,42 @@
+.head{
+    width:70%;
+    border-bottom: 3px solid black;
+}
+.main {
+    background-color: ;
+    width:70%;
+    position:absolute;
+    top:10%;
+    bottom:100px;
+    
+    border-right: 1px solid black;
+    
+    overflow: scroll;
+}
+.maincart{
+    width:25%;
+    position:absolute;
+    top:0%;
+    bottom:600px;
+    left:71%;
+
+}
+.final{
+    
+    width:70%;
+    position: absolute;
+    top:50%;
+    bottom:100px;
+    border-top: 1px solid black;
+    border-right: 0px solid green;
+    border-bottom: 1px solid green;
+}
+.buttons{
+    position:absolute;
+    top:25%;
+    left:40%;
+}
+.header{
+    width:70%;
+    
+}
